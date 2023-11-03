@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itu-reinhard
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning Nodejs, Expressjs, React, Next.
+- 📫 How to reach me reinhardkevin.rk@gmail.com
